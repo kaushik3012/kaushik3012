@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on developing a domain specific language
 - 📫 How to reach me : kaushikrajn@gmail.com
 
-<div>
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@kaushik3012" frameborder="0"></iframe>
-</div>
+[![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushik3012)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 kaushik3012/kaushik3012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
